@@ -1,0 +1,22 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csps-efpc-daan-students-etudiants/cypress-demo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csps-efpc-daan-students-etudiants/cypress-demo/issues"
+  },
+  "homepage": "https://github.com/csps-efpc-daan-students-etudiants/cypress-demo#readme",
+  "devDependencies": {
+    "cypress": "^3.2.0"
+  }
+}
